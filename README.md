@@ -1,7 +1,6 @@
 # guess-the-movie
 
-![image](https://github.com/alpeshkumar9/guess-the-movie/static/img/Guess the Movie!!!.png?raw=true)
-
+![image](https://user-images.githubusercontent.com/8064993/152680307-1dbf7b01-53cb-42a4-96d8-526da02bfcfc.png)
 
 The objective of "Guess the Movie" recommendation system is to predict and compile a list of movies that a user is likely to watch. Recommendation systems have gained much popularity in recent years and have been developed and implemented for various commercial use cases.
 
@@ -20,5 +19,6 @@ Content Based: The general idea is that if a user liked an item with certain pro
 
 Collaborative Filtering: This is a more advanced system in which the algorithm tries to find similar users/articles and then recommends items based on this similarity. Eg: If one person likes movies A, B, and C and another person likes movies A, B, and D, it is likely that the first person will buy item D and the other person will buy item C, since they share many similarities with each other
 
-In this Notebook, we'll be focusing on the advanced Collaborative Filtering recommender. Lets get started!
+**In this Notebook, we'll be focusing on the content based recommender using Bag Of Words technique of NLP. Lets get started!**
+
 Movie Recommendation using Python, Flask, NLTK techinque, Stemmer
